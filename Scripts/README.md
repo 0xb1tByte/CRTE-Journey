@@ -1,5 +1,5 @@
 # NestedGroupsACLs.ps1
-A simple script to automate the task of finding **Interesting ACLs** of **Nested Groups** of a user. The script is relying in the following tools: 
+A simple script to automate the task of finding **Interesting ACLs** of **Nested Groups** of a user. The script is relying on the following tools: 
 - PowerView.ps1
 
 # Usage : 
