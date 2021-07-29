@@ -20,5 +20,5 @@ A simple script to automate the task of finding **Interesting ACLs** of **Nested
 
 # Notes :
 - The main purpose of these scripts is to automate manual commands and to get familiar with **Windows Powershell scripting** 
-- The script was tested in the **Advanced Red Team Lab (CRTE)** and in **Penetration Testing Extreme v2 Lab **
-- The network noise of the script has not been tested
+- The scripts were tested in the **Advanced Red Team Lab (CRTE)** and in **Penetration Testing Extreme v2 Lab **
+- The network noise of the scripts has not been tested
